@@ -1,0 +1,35 @@
+.item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+  border-bottom: 1px solid darkgray;
+}
+
+.item:hover {
+  transform: scale(1.03);
+}
+.status {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-radius: 10px;
+
+  background-color: gray;
+  margin-right: 10px;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.avatar {
+  margin-right: 10px;
+}
+.name {
+  font-weight: 500;
+}

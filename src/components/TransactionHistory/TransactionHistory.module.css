@@ -1,0 +1,16 @@
+.transaction {
+  background-color: rgb(181, 178, 178);
+  width: 20%;
+  text-align: center;
+}
+
+.thead {
+  background-color: rgb(122, 178, 32);
+  color: white;
+  font-size: 40px;
+  height: 30px;
+}
+
+.tbody td {
+  padding: 5px;
+}
